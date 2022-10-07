@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "67a85d7b04b868c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe19ac7a79a62a55",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "medu4/Major/Cardiology/Chapter5 弁膜症/5.4 大動脈弁狭窄症〈AS〉.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "19949fb2cbd6bf7a",
+    "type": "split",
+    "children": [
+      {
+        "id": "439708f0fc4386dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e31c257ad8fcf9c5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f7fe7bd8ba7fc942",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Leriche",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300.0121879577637,
+    "collapsed": true
+  },
+  "right": {
+    "id": "e47007f8c80415db",
+    "type": "split",
+    "children": [
+      {
+        "id": "8fbb4e01130005c6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "919fc833a594b320",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "medu4/Major/Cardiology/Chapter5 弁膜症/5.4 大動脈弁狭窄症〈AS〉.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "fe19ac7a79a62a55",
+  "lastOpenFiles": [
+    "medu4/Major/Cardiology/Chapter5 弁膜症/5.4 大動脈弁狭窄症〈AS〉.md",
+    "medu4/Major/Cardiology/Chapter7 心筋疾患/7.2 肥大型心筋症〈HCM〉.md",
+    "medu4/Major/Cardiology/Chapter3 不整脈/3.A 抗不整脈薬.md",
+    "medu4/Major/Cardiology/Chapter4 虚血性心疾患/4.5 急性心筋梗塞〈AMI〉.md",
+    "medu4/Major/Cardiology/Chapter1 総論/1.10 胸部エックス線.md",
+    "medu4/Major/Cardiology/Chapter8 血管疾患/8.3 閉塞性動脈硬化症〈ASO〉.md",
+    "medu4/Minor/Urology/Chapter6 陰嚢・精巣/6.6 精巣腫瘍.md",
+    "medu4/Minor/Urology/Chapter6 陰嚢・精巣/6.5 精巣捻転症.md",
+    "medu4/Minor/Urology/Chapter6 陰嚢・精巣/6.4 停留精巣.md",
+    "medu4/Minor/Urology/Chapter6 陰嚢・精巣/6.3.2 精液瘤.md"
+  ]
+}

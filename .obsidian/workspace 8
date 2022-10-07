@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "142f12e7b05f1d31",
+    "type": "split",
+    "children": [
+      {
+        "id": "e9cb24dc11a60054",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "medu4/Major/Nephrology/Chapter4 糸球体/4.10 糖尿病性腎症〈DN〉.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7bb8cad072829056",
+    "type": "split",
+    "children": [
+      {
+        "id": "2bc7c8f930d76330",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f63f04eb162c9a3b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ce974ca3aeaca1b4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6d019ef439319998",
+    "type": "split",
+    "children": [
+      {
+        "id": "6881da053295141c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "56fc489ed11c6a60",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "medu4/Major/Nephrology/Chapter4 糸球体/4.10 糖尿病性腎症〈DN〉.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "e9cb24dc11a60054",
+  "lastOpenFiles": [
+    "medu4/Major/Nephrology/Chapter4 糸球体/4.10 糖尿病性腎症〈DN〉.md",
+    "medu4/Minor/Ophthalmology/Chapter5 網膜/5.1 糖尿病網膜症.md",
+    "medu4/Major/Nephrology/Chapter4 糸球体/4.1 糸球体腎炎概論.md",
+    "medu4/Major/Nephrology/Chapter4 糸球体/4.11 ループス腎炎.md",
+    "medu4/Major/Nephrology/Chapter4 糸球体/4.4 IgA 腎症.md",
+    "medu4/Minor/Urology/Chapter1 総論/1.2 全体像.md",
+    "medu4/Minor/Urology/Chapter1 総論/1.1 泌尿器科のオリエンテーション.md",
+    "tpls/medu4_tpl_basic.md",
+    "tpls/medu4_tpl.md",
+    "medu4/Minor/Dermatology/Chapter1 総論/1.1 皮膚科のオリエンテーション.md"
+  ]
+}

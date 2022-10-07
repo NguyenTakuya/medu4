@@ -1,0 +1,8 @@
+{
+  "findText": "### (.*$)",
+  "replaceText": "### [[3.4.4 自家感作性皮膚炎|$1]]",
+  "useRegEx": true,
+  "selOnly": false,
+  "caseInsensitive": true,
+  "processLineBreak": false
+}

@@ -1,0 +1,7 @@
+{
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "defaultViewMode": "preview",
+  "mobilePullAction": "global-search:open",
+  "livePreview": false
+}

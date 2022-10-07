@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "67a85d7b04b868c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "556f3eb805111447",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6e5a75e6d7e2d11d",
+    "type": "split",
+    "children": [
+      {
+        "id": "b2371bbbb26b20d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ba8f11b1483726f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9aad75db806f7d4b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "39cbc47c78d906cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "f9b8053af11b6d45",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cbc031a12ffcd695",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "556f3eb805111447",
+  "lastOpenFiles": [
+    "就職/藤沢市民病院/無題のファイル.md",
+    "medu4/Major/Cardiology/Chapter1 総論/1.1 循環器のオリエンテーション.md",
+    "就職/藤沢市民病院/藤沢市民病院 2020 第1回.md",
+    "medu4/Major/Neurology/Chapter2 脳血管障害/2.8 Wallenberg 症候群〈延髄外側症候群〉.md",
+    "medu4/Minor/Orthopedic/Chapter4 下肢/4.2 変形性関節症〈OA〉.md",
+    "medu4/Minor/Orthopedic/Chapter4 下肢/4.9.3 Osgood-Schlatter病.md",
+    "medu4/ER/ER/Chapter1 総論/1.5 医療者による救命処置.md",
+    "medu4/Minor/Ophthalmology/Chapter2 前眼部/2.12 原発開放隅角緑内障.md",
+    "medu4/Minor/Ophthalmology/Chapter2 前眼部/2.11 原発閉塞隅角緑内障.md",
+    "medu4/OPG/OBGYN/Chapter2 妊娠の成立と進行/2.8 妊娠週数ごとの変化 2_胎児の発達.md"
+  ]
+}

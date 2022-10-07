@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "bb6692c7d416852f",
+    "type": "split",
+    "children": [
+      {
+        "id": "315ba5b4a13821a3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "medu4/Major/Rheumatology/Chapter3 関節疾患/3.8 反応性関節炎〈Reiter 症候群〉.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "19ae97c6177ab2ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "b40086931ea6b794",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5807ad3c24eeb2f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9ecd912651535064",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "89f6db2b1480b703",
+    "type": "split",
+    "children": [
+      {
+        "id": "497c0dd03b27a10e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "157fb04c233b89be",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "medu4/Major/Rheumatology/Chapter3 関節疾患/3.8 反応性関節炎〈Reiter 症候群〉.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "315ba5b4a13821a3",
+  "lastOpenFiles": [
+    "medu4/Major/Rheumatology/Chapter3 関節疾患/3.7 強直性脊椎炎.md",
+    "medu4/Major/Rheumatology/Chapter5 血管炎/5.2 顕微鏡的多発血管炎〈MPA〉.md",
+    "medu4/Major/Rheumatology/Chapter3 関節疾患/3.5 若年性特発性関節炎〈JIA〉.md",
+    "medu4/Major/Rheumatology/Chapter2 アレルギー/2.5 アレルギー分類のまとめ.md",
+    "medu4/Appendix/Infusion/1. 代表的な輸液製剤の組成とその単位.md",
+    "medu4/Appendix/Infusion/6. 1 号液(開始液).md",
+    "medu4/Appendix/Infusion/8. 3号液(維持液).md",
+    "medu4/Appendix/Infusion/10. アルブミン製剤.md",
+    "medu4/Appendix/Infusion/11. 疾患に応じたブレンド.md",
+    "medu4/Minor/Dermatology/Chapter4 水疱膿疱/4.1 天疱瘡.md"
+  ]
+}

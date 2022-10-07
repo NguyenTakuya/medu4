@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "63872ba532607be0",
+    "type": "split",
+    "children": [
+      {
+        "id": "798aec559957abaf",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "medu4/Major/Neurology/Chapter12 神経腫瘍/12.3.1 Foster Kennedy症候群.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e0f505c14ff6694b",
+    "type": "split",
+    "children": [
+      {
+        "id": "9bb14cddb30f36cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be1d8ec951540635",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "030f1c8538144410",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9b794c975af7993c",
+    "type": "split",
+    "children": [
+      {
+        "id": "d57497031fa27179",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4387a7daede7a9cc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "medu4/Major/Neurology/Chapter12 神経腫瘍/12.3.1 Foster Kennedy症候群.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "798aec559957abaf",
+  "lastOpenFiles": [
+    "medu4/Major/Hepatology/Chapter2 肝の炎症/2.1.1 急性肝炎.md",
+    "medu4/Major/Hepatology/Chapter2 肝の炎症/2.5 劇症肝炎.md",
+    "medu4/Major/Hepatology/Chapter2 肝の炎症/2.1.2 慢性肝炎.md",
+    "medu4/Major/Hepatology/Chapter2 肝の炎症/2.9 原発性胆汁性胆管炎〈PBC〉.md"
+  ]
+}

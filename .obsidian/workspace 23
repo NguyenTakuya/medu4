@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "67a85d7b04b868c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "b7829b6cb74d2b89",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "medu4/Major/Nephrology/Chapter5 尿細管・間質/5.2.1 Bartter 症候群.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "20edc6c15044cf92",
+    "type": "split",
+    "children": [
+      {
+        "id": "07de23979eefd604",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "56a068e5330fe073",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6710d4045fce2826",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "d9597b7cf3725c76",
+    "type": "split",
+    "children": [
+      {
+        "id": "859230f061d3047e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4adb4e642aeaaa02",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "medu4/Major/Nephrology/Chapter5 尿細管・間質/5.2.1 Bartter 症候群.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "b7829b6cb74d2b89",
+  "lastOpenFiles": [
+    "medu4/Major/Nephrology/Chapter5 尿細管・間質/5.2.1 Bartter 症候群.md",
+    "medu4/Major/Hematology/Chapter7 蛋白増殖疾患/7.2 原発性マクログロブリン血症〈WM〉.md",
+    "medu4/Major/Hematology/Chapter4 造血低下による貧血/4.4 原発性骨髄線維症〈PMF〉.md",
+    "medu4/Major/Hematology/Chapter6 リンパ系疾患/6.2 亜急性壊死性リンパ節炎〈菊池病〉.md",
+    "medu4/Major/Hematology/Chapter5 血球の過剰産生/5.2.2 急性リンパ性白血病〈ALL〉.md",
+    "medu4/Major/Hematology/Chapter8 1次止血のみの障害/8.5.1  血小板無力症〈Glanzmann 病〉.md",
+    "medu4/Major/Hematology/Chapter5 血球の過剰産生/5.7 本態性血小板血症〈ET〉.md",
+    "medu4/Major/Hematology/Chapter5 血球の過剰産生/5.4 慢性リンパ性白血病〈CLL〉.md",
+    "medu4/Major/Hematology/Chapter6 リンパ系疾患/6.3 悪性リンパ腫.md",
+    "medu4/Major/Hematology/Chapter6 リンパ系疾患/6.3.2 Non Hodgikin リンパ腫.md"
+  ]
+}

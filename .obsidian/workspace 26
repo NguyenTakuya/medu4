@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "67a85d7b04b868c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "daf5bf6d030679e2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "medu4/Major/Infectious Diseases/Chapter4 特殊細菌/4.9 破傷風〈Clostridium tetani〉.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6e5a75e6d7e2d11d",
+    "type": "split",
+    "children": [
+      {
+        "id": "b2371bbbb26b20d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ba8f11b1483726f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9aad75db806f7d4b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "妊婦",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "39cbc47c78d906cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "f9b8053af11b6d45",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cbc031a12ffcd695",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "medu4/Major/Infectious Diseases/Chapter4 特殊細菌/4.9 破傷風〈Clostridium tetani〉.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "daf5bf6d030679e2",
+  "lastOpenFiles": [
+    "medu4/Major/Infectious Diseases/Chapter4 特殊細菌/4.12.3 リステリア〈Listeria monocytogenes〉.md",
+    "medu4/Major/Infectious Diseases/Chapter4 特殊細菌/4.12.2 ジフテリア〈Corynebacterium diphtheriae〉.md",
+    "medu4/Major/Hepatology/Chapter2 肝の炎症/2.3.1 B型肝炎.md",
+    "medu4/OPG/Pediatrics/Chapter2 新生児・乳幼児/2.4 母乳と栄養.md",
+    "medu4/Major/Nephrology/Chapter3 腎血管/3.4.1 良性腎硬化症.md",
+    "medu4/OPG/Pediatrics/Chapter8 感染症/8.4 伝染性紅斑.md",
+    "medu4/Major/Rheumatology/Chapter4 全身疾患/4.1 全身性エリテマトーデス〈SLE〉.md",
+    "medu4/Minor/Urology/Chapter2 腎・尿管/2.5 腎細胞癌〈RCC〉.md",
+    "medu4/Major/Hepatology/Chapter4 胆/4.10 胆管癌.md",
+    "medu4/Major/Hepatology/Chapter2 肝の炎症/2.9 原発性胆汁性胆管炎〈PBC〉.md"
+  ]
+}

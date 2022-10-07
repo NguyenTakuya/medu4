@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "67a85d7b04b868c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "75624a39e2d70ce0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "medu4/Major/Nephrology/Chapter4 糸球体/4.6 膜性増殖性糸球体腎炎〈MPGN〉.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "27fc4a69510a7a50",
+    "type": "split",
+    "children": [
+      {
+        "id": "de94081721359e59",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "01d7ac658b53613d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a6c253b3f60ff90c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7943908d5a79e905",
+    "type": "split",
+    "children": [
+      {
+        "id": "5316394fbb3ec42c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2507258beb2acae9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "medu4/Major/Nephrology/Chapter4 糸球体/4.6 膜性増殖性糸球体腎炎〈MPGN〉.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "01d7ac658b53613d",
+  "lastOpenFiles": [
+    "medu4/Major/Nephrology/Chapter4 糸球体/4.5 膜性腎症〈MN〉.md",
+    "medu4/Major/Nephrology/Chapter4 糸球体/4.6 膜性増殖性糸球体腎炎〈MPGN〉.md",
+    "medu4/Major/Respiratory Medicine/Chapter4 気道障害/4.3 慢性閉塞性肺疾患〈COPD〉.md",
+    "medu4/Major/Endocrinology/Chapter2 下垂体/2.5.1 中枢性尿崩症〈central DI〉.md",
+    "medu4/Major/Endocrinology/Chapter2 下垂体/2.3 Sheehan 症候群.md",
+    "medu4/Major/Endocrinology/Chapter8 その他の代謝/8.8.1 成人の亜鉛〈Zn〉欠乏.md",
+    "medu4/Major/Endocrinology/Chapter2 下垂体/2.5.3 心因性多飲症.md",
+    "medu4/Major/Endocrinology/Chapter7 メタボリックシンドロームと生活指導/7.2 高血圧症.md",
+    "medu4/Major/Endocrinology/Chapter6 糖尿病/6.5.1 糖尿病性ケトアシドーシス〈DKA〉.md",
+    "medu4/Major/Endocrinology/Chapter2 下垂体/2.4 リンパ球性下垂体炎.md"
+  ]
+}

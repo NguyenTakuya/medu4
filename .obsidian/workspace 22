@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "67a85d7b04b868c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "f08f20f7eb8f1da8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "medu4/Major/Respiratory Medicine/Chapter8 呼吸器腫瘍/8.1-8.3  原発性肺癌.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d063e965a27ffbac",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb86bc734cbba35d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc3597663c17e938",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5b1db27fd4599381",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "159619dbb378e3c7",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c0e84e36767ae3a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8541c4258320d05e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "medu4/Major/Respiratory Medicine/Chapter8 呼吸器腫瘍/8.1-8.3  原発性肺癌.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f08f20f7eb8f1da8",
+  "lastOpenFiles": [
+    "medu4/Major/Respiratory Medicine/Chapter8 呼吸器腫瘍/8.1-8.3  原発性肺癌.md",
+    "medu4/Major/Respiratory Medicine/Chapter8 呼吸器腫瘍/img/Pasted image 20220222152506.png",
+    "tpls/medu4_tpl.md",
+    "medu4/Major/Respiratory Medicine/Chapter7 胸腔・胸膜/7.8 胸膜中皮腫.md",
+    "medu4/Major/Respiratory Medicine/Chapter7 胸腔・胸膜/7.7 胸膜プラーク.md",
+    "medu4/Major/Respiratory Medicine/Chapter7 胸腔・胸膜/7.6 無気肺.md",
+    "medu4/Major/Respiratory Medicine/Chapter7 胸腔・胸膜/img/Pasted image 20220222145300.png",
+    "medu4/Major/Respiratory Medicine/Chapter7 胸腔・胸膜/7.5.2 縦隔炎・縦隔気腫.md",
+    "medu4/Major/Respiratory Medicine/Chapter7 胸腔・胸膜/7.5.1 胸膜炎.md",
+    "medu4/Major/Respiratory Medicine/Chapter7 胸腔・胸膜/7.4 乳び胸.md"
+  ]
+}
