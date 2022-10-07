@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "medu4/Major/Nephrology/Chapter4 糸球体/4.6 膜性増殖性糸球体腎炎〈MPGN〉.md",
+            "file": "medu4/Major/Rheumatology/Chapter1 総論/1.4 ナイーブ T 細胞の分化とサイトカイン.md",
             "mode": "preview",
             "source": true
           }
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7943908d5a79e905",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "medu4/Major/Nephrology/Chapter4 糸球体/4.6 膜性増殖性糸球体腎炎〈MPGN〉.md",
+                "file": "medu4/Major/Rheumatology/Chapter1 総論/1.4 ナイーブ T 細胞の分化とサイトカイン.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +90,15 @@
   },
   "active": "75624a39e2d70ce0",
   "lastOpenFiles": [
-    "medu4/Major/Nephrology/Chapter4 糸球体/4.5 膜性腎症〈MN〉.md",
-    "medu4/Major/Nephrology/Chapter4 糸球体/4.6 膜性増殖性糸球体腎炎〈MPGN〉.md",
-    "medu4/Major/Respiratory Medicine/Chapter4 気道障害/4.3 慢性閉塞性肺疾患〈COPD〉.md",
-    "medu4/Major/Endocrinology/Chapter2 下垂体/2.5.1 中枢性尿崩症〈central DI〉.md",
-    "medu4/Major/Endocrinology/Chapter2 下垂体/2.3 Sheehan 症候群.md",
-    "medu4/Major/Endocrinology/Chapter8 その他の代謝/8.8.1 成人の亜鉛〈Zn〉欠乏.md",
-    "medu4/Major/Endocrinology/Chapter2 下垂体/2.5.3 心因性多飲症.md",
-    "medu4/Major/Endocrinology/Chapter7 メタボリックシンドロームと生活指導/7.2 高血圧症.md",
-    "medu4/Major/Endocrinology/Chapter6 糖尿病/6.5.1 糖尿病性ケトアシドーシス〈DKA〉.md",
-    "medu4/Major/Endocrinology/Chapter2 下垂体/2.4 リンパ球性下垂体炎.md"
+    "medu4/Major/Rheumatology/Chapter4 全身疾患/4.2 抗リン脂質抗体症候群〈APS〉.md",
+    "medu4/Major/Rheumatology/Chapter2 アレルギー/2.3 III 型アレルギー.md",
+    "medu4/Major/Rheumatology/Chapter5 血管炎/5.9 リウマチ性多発筋痛症〈PMR〉.md",
+    "medu4/Major/Rheumatology/Chapter3 関節疾患/3.3 線維筋痛症.md",
+    "medu4/Major/Rheumatology/Chapter3 関節疾患/3.2 シェーグレン症候群〈SS〉.md",
+    "medu4/Major/Rheumatology/Chapter3 関節疾患/3.1 関節リウマチ〈RA〉.md",
+    "medu4/Major/Respiratory Medicine/Chapter3 アレルギー性呼吸器疾患/3.1 気管支喘息.md",
+    "medu4/Major/Rheumatology/Chapter2 アレルギー/2.8 血管性浮腫〈Quincke 浮腫〉.md",
+    "medu4/Major/Rheumatology/Chapter1 総論/1.6 免疫の治療.md",
+    "medu4/Appendix/Infusion/1. 代表的な輸液製剤の組成とその単位.md"
   ]
 }
